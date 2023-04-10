@@ -6,7 +6,7 @@ Neste repositório está o projeto <b>Loja</b>, realizado no curso sobre a lingu
 
 🚩 loja: projeto que simula um sistema de cadastro de produtos.
 
-📌 Crie uma aplicação web do zero com Go dentro das Principais Convenções</br>
+📌 Criar uma aplicação web do zero com Go dentro das Principais Convenções</br>
 📌 Trabalhar com <code>structs</code></br>
 📌 Conectar a aplicação Go com Banco de Dados (PostgreSQL :elephant:)</br>
 📌 Partials.
